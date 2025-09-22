@@ -17,10 +17,11 @@ Report of my findings:
 
 
 Reflect on challenges and learning:
-    I specifically had a challenge with Part 4, the streamlit part. I kept getting this error:
+    I specifically had a challenge with uploading the metadata.csv file on GitHub and Part 4, the Streamlit part. I kept getting this error:
 
                 "C:\Users\Admin\AppData\Roaming\Python\Python313\site-packages\pandas\core\indexes\base.py", line 3819, in get_loc
             raise KeyError(key) from err
         KeyError: 'publication_year'
 
-    However, so far applying everything else I've learnt and the code executing itself flawlessy was very satisfying.
+
+    However, so far applying everything else I've learnt and the code executing itself flawlessly was very satisfying.
